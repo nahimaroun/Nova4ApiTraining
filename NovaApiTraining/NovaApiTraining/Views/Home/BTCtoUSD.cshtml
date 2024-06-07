@@ -1,0 +1,124 @@
+﻿@{
+    ViewData["Title"] = "BTC to USD";
+}
+
+
+<head>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
+</head>
+
+
+<body>
+    <div class="text-center">
+        <h1 class="display-4">BTC to USD</h1>
+    </div>
+
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header" style="background-color: #007bff;">
+                <h3 class="card-title" style="color: white;">All Cryptos :</h3>
+                <div class="card-tools">
+                    <div class="input-group input-group-sm" style="width: 150px;">
+                        <div class="input-group-append">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card-body table-responsive p-0">
+                <table id="userTable" class="table table-head-fixed text-nowrap">
+                    <thead>
+                        <tr>
+                            <th>
+                                Id
+                            </th>
+                            <th>
+                                Price
+                            </th>
+                            <th>
+                                Source
+                            </th>
+                            <th>
+                                timeStamp
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in ViewBag.Infos)
+                        {
+                            <tr class="searchable-row">
+                                <td>
+                                    @item.Id
+                                </td>
+                                <td>
+                                    @item.Price
+                                </td>
+                                <td>
+                                    @item.Source
+                                </td>
+                                <td>
+                                    @item.timeStamp
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+
+<link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css" />
+<script src="https://cdn.datatables.net/2.0.8/js/dataTables.js"></script>
+
+<script>
+    $(document).ready(function () {
+        function fetchData() {
+            $.ajax({
+                url: '/GetBitFinex',
+                type: 'GET',
+                success: function (data) {
+                    var tableBody = $('#userTable tbody');
+
+
+                },
+                error: function (error) {
+                    console.log('Error fetching BTC data:', error);
+                }
+            });
+        }
+        // fetchData();
+        // setInterval(fetchData, 60000);
+    });
+</script>
+
+<script>
+    $(document).ready(function () {
+        function fetchData() {
+            $.ajax({
+                url: '/GetBitStamp',
+                type: 'GET',
+                success: function (data) {
+                    var tableBody = $('#userTable tbody');
+
+
+                },
+                error: function (error) {
+                    console.log('Error fetching BTC data:', error);
+                }
+            });
+        }
+        // fetchData();
+        // setInterval(fetchData, 60000);
+    });
+</script>
+
+<script type="text/javascript">
+    var js = jQuery.noConflict(true);
+    js(document).ready(function () {
+        js('#userTable').DataTable({
+
+        });
+    });
+</script>

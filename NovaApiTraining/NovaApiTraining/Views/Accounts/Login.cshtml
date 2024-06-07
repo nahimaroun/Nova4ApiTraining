@@ -1,0 +1,83 @@
+﻿@model NovaApiTraining.ViewModels.LoginVM
+@{
+    ViewBag.Title = "Login";
+    Layout = null;
+}
+<link rel="stylesheet" href="~/css/Style.css" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0">
+
+@using (Html.BeginForm("Login", "Accounts", FormMethod.Post))
+{
+    <div class="login" @* onsubmit="event.preventDefault(); loginUser(); fetchProtectedData();" *@>
+
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+        @if (@ViewBag.Message != null)
+        {
+            <div style="border: 1px solid red">
+                @ViewBag.Message
+            </div>
+        }
+
+        <h1>Login</h1>
+
+        <input name="UserName" type="text" placeholder="Username" required="required" />
+        <input name="Password" type="password" placeholder="Password" autocomplete="new-password" required="required" />
+        <button type="submit" class="btn btn-primary btn-block btn-large">Let me in.</button>
+
+        @if (TempData["Message"] != null)
+        {
+            <div class="LoginFailed">
+                @TempData["Message"].ToString()
+            </div>
+        }
+    </div>
+}
+
+@* 
+<script>
+    async function loginUser() {
+        const username = document.getElementById('UserName').value;
+        const password = document.getElementById('Password').value;
+
+        const response = await fetch('https://localhost:7269/Login', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ UserName: UserName, Password: Password })
+        });
+
+        const data = await response.json();
+        if (response.ok) {
+            localStorage.setItem('jwt_token', data.token);
+            alert('Login successful! Token stored.');
+        } else {
+            alert('Login failed: ' + data.message);
+        }
+    }
+
+    async function fetchProtectedData() {
+        const token = localStorage.getItem('jwt_token');
+        if (!token) {
+            alert('No token found. Please log in first.');
+            return;
+        }
+
+        const response = await fetch('https://localhost:7269/Home/BTCtoUSD', {
+            method: 'GET',
+            headers: {
+                'Authorization': `Bearer ${token}`
+            }
+        });
+
+        if (response.ok) {
+            const data = await response.json();
+            console.log('Protected data:', data);
+            alert('Protected data fetched! Check the console for details.');
+        } else {
+            alert('Failed to fetch protected data: ' + response.statusText);
+        }
+    }
+</script> *@

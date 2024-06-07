@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abour\\source\\repos\\NovaApiTraining\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74B61DB5-1023-47FE-BAC6-DF2134771E73}|NovaApiTraining\\NovaApiTraining.csproj|c:\\users\\abour\\source\\repos\\novaapitraining\\novaapitraining\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74B61DB5-1023-47FE-BAC6-DF2134771E73}|NovaApiTraining\\NovaApiTraining.csproj|solutionrelative:novaapitraining\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B61DB5-1023-47FE-BAC6-DF2134771E73}|NovaApiTraining\\NovaApiTraining.csproj|c:\\users\\abour\\source\\repos\\novaapitraining\\novaapitraining\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B61DB5-1023-47FE-BAC6-DF2134771E73}|NovaApiTraining\\NovaApiTraining.csproj|solutionrelative:novaapitraining\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B61DB5-1023-47FE-BAC6-DF2134771E73}|NovaApiTraining\\NovaApiTraining.csproj|c:\\users\\abour\\source\\repos\\novaapitraining\\novaapitraining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B61DB5-1023-47FE-BAC6-DF2134771E73}|NovaApiTraining\\NovaApiTraining.csproj|solutionrelative:novaapitraining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B61DB5-1023-47FE-BAC6-DF2134771E73}|NovaApiTraining\\NovaApiTraining.csproj|c:\\users\\abour\\source\\repos\\novaapitraining\\novaapitraining\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74B61DB5-1023-47FE-BAC6-DF2134771E73}|NovaApiTraining\\NovaApiTraining.csproj|solutionrelative:novaapitraining\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B61DB5-1023-47FE-BAC6-DF2134771E73}|NovaApiTraining\\NovaApiTraining.csproj|c:\\users\\abour\\source\\repos\\novaapitraining\\novaapitraining\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B61DB5-1023-47FE-BAC6-DF2134771E73}|NovaApiTraining\\NovaApiTraining.csproj|solutionrelative:novaapitraining\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B61DB5-1023-47FE-BAC6-DF2134771E73}|NovaApiTraining\\NovaApiTraining.csproj|c:\\users\\abour\\source\\repos\\novaapitraining\\novaapitraining\\dtos\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B61DB5-1023-47FE-BAC6-DF2134771E73}|NovaApiTraining\\NovaApiTraining.csproj|solutionrelative:novaapitraining\\dtos\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B61DB5-1023-47FE-BAC6-DF2134771E73}|NovaApiTraining\\NovaApiTraining.csproj|c:\\users\\abour\\source\\repos\\novaapitraining\\novaapitraining\\dtos\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B61DB5-1023-47FE-BAC6-DF2134771E73}|NovaApiTraining\\NovaApiTraining.csproj|solutionrelative:novaapitraining\\dtos\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B61DB5-1023-47FE-BAC6-DF2134771E73}|NovaApiTraining\\NovaApiTraining.csproj|c:\\users\\abour\\source\\repos\\novaapitraining\\novaapitraining\\dtos\\crypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B61DB5-1023-47FE-BAC6-DF2134771E73}|NovaApiTraining\\NovaApiTraining.csproj|solutionrelative:novaapitraining\\dtos\\crypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 364,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\NovaApiTraining\\NovaApiTraining\\Views\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "NovaApiTraining\\Views\\Accounts\\Login.cshtml",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\NovaApiTraining\\NovaApiTraining\\Views\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "NovaApiTraining\\Views\\Accounts\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T09:37:53.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\NovaApiTraining\\NovaApiTraining\\Program.cs",
+              "RelativeDocumentMoniker": "NovaApiTraining\\Program.cs",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\NovaApiTraining\\NovaApiTraining\\Program.cs",
+              "RelativeToolTip": "NovaApiTraining\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwC8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:17:53.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\NovaApiTraining\\NovaApiTraining\\appsettings.json",
+              "RelativeDocumentMoniker": "NovaApiTraining\\appsettings.json",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\NovaApiTraining\\NovaApiTraining\\appsettings.json",
+              "RelativeToolTip": "NovaApiTraining\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T08:45:30.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\NovaApiTraining\\NovaApiTraining\\DTOs\\Account.cs",
+              "RelativeDocumentMoniker": "NovaApiTraining\\DTOs\\Account.cs",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\NovaApiTraining\\NovaApiTraining\\DTOs\\Account.cs",
+              "RelativeToolTip": "NovaApiTraining\\DTOs\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T08:34:43.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\NovaApiTraining\\NovaApiTraining\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "NovaApiTraining\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\NovaApiTraining\\NovaApiTraining\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "NovaApiTraining\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:29:05.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\NovaApiTraining\\NovaApiTraining\\DTOs\\Mapper.cs",
+              "RelativeDocumentMoniker": "NovaApiTraining\\DTOs\\Mapper.cs",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\NovaApiTraining\\NovaApiTraining\\DTOs\\Mapper.cs",
+              "RelativeToolTip": "NovaApiTraining\\DTOs\\Mapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:28:52.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Crypto.cs",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\NovaApiTraining\\NovaApiTraining\\DTOs\\Crypto.cs",
+              "RelativeDocumentMoniker": "NovaApiTraining\\DTOs\\Crypto.cs",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\NovaApiTraining\\NovaApiTraining\\DTOs\\Crypto.cs",
+              "RelativeToolTip": "NovaApiTraining\\DTOs\\Crypto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:28:51.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\NovaApiTraining\\NovaApiTraining\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "NovaApiTraining\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\NovaApiTraining\\NovaApiTraining\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "NovaApiTraining\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAANEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T07:28:50.206Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
