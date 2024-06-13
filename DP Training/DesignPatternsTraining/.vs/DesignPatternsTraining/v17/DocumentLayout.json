@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7734A0F-F3B2-4FA7-88CC-A8EFA24837E6}|AdapterDesignPatern\\AdapterDesignPatern.csproj|c:\\users\\abour\\source\\repos\\designpatternstraining\\adapterdesignpatern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7734A0F-F3B2-4FA7-88CC-A8EFA24837E6}|AdapterDesignPatern\\AdapterDesignPatern.csproj|solutionrelative:adapterdesignpatern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7734A0F-F3B2-4FA7-88CC-A8EFA24837E6}|AdapterDesignPatern\\AdapterDesignPatern.csproj|c:\\users\\abour\\source\\repos\\designpatternstraining\\adapterdesignpatern\\adapterdesignpatern.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F7734A0F-F3B2-4FA7-88CC-A8EFA24837E6}|AdapterDesignPatern\\AdapterDesignPatern.csproj|solutionrelative:adapterdesignpatern\\adapterdesignpatern.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7734A0F-F3B2-4FA7-88CC-A8EFA24837E6}|AdapterDesignPatern\\AdapterDesignPatern.csproj|c:\\users\\abour\\source\\repos\\designpatternstraining\\adapterdesignpatern\\employeeadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7734A0F-F3B2-4FA7-88CC-A8EFA24837E6}|AdapterDesignPatern\\AdapterDesignPatern.csproj|solutionrelative:adapterdesignpatern\\employeeadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7734A0F-F3B2-4FA7-88CC-A8EFA24837E6}|AdapterDesignPatern\\AdapterDesignPatern.csproj|c:\\users\\abour\\source\\repos\\designpatternstraining\\adapterdesignpatern\\itarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7734A0F-F3B2-4FA7-88CC-A8EFA24837E6}|AdapterDesignPatern\\AdapterDesignPatern.csproj|solutionrelative:adapterdesignpatern\\itarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7734A0F-F3B2-4FA7-88CC-A8EFA24837E6}|AdapterDesignPatern\\AdapterDesignPatern.csproj|c:\\users\\abour\\source\\repos\\designpatternstraining\\adapterdesignpatern\\thirdpartybillingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7734A0F-F3B2-4FA7-88CC-A8EFA24837E6}|AdapterDesignPatern\\AdapterDesignPatern.csproj|solutionrelative:adapterdesignpatern\\thirdpartybillingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7734A0F-F3B2-4FA7-88CC-A8EFA24837E6}|AdapterDesignPatern\\AdapterDesignPatern.csproj|c:\\users\\abour\\source\\repos\\designpatternstraining\\adapterdesignpatern\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7734A0F-F3B2-4FA7-88CC-A8EFA24837E6}|AdapterDesignPatern\\AdapterDesignPatern.csproj|solutionrelative:adapterdesignpatern\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CA384C-34CF-42E0-BDBC-8DD825983734}|SingeltonDesignPattern\\SingeltonDesignPattern.csproj|c:\\users\\abour\\source\\repos\\designpatternstraining\\singeltondesignpattern\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CA384C-34CF-42E0-BDBC-8DD825983734}|SingeltonDesignPattern\\SingeltonDesignPattern.csproj|solutionrelative:singeltondesignpattern\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CA384C-34CF-42E0-BDBC-8DD825983734}|SingeltonDesignPattern\\SingeltonDesignPattern.csproj|c:\\users\\abour\\source\\repos\\designpatternstraining\\singeltondesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CA384C-34CF-42E0-BDBC-8DD825983734}|SingeltonDesignPattern\\SingeltonDesignPattern.csproj|solutionrelative:singeltondesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0073AFC-7263-4A18-AE28-A2E063E625A4}|PrototypeDesignPattern\\PrototypeDesignPattern.csproj|c:\\users\\abour\\source\\repos\\designpatternstraining\\prototypedesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0073AFC-7263-4A18-AE28-A2E063E625A4}|PrototypeDesignPattern\\PrototypeDesignPattern.csproj|solutionrelative:prototypedesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0073AFC-7263-4A18-AE28-A2E063E625A4}|PrototypeDesignPattern\\PrototypeDesignPattern.csproj|c:\\users\\abour\\source\\repos\\designpatternstraining\\prototypedesignpattern\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0073AFC-7263-4A18-AE28-A2E063E625A4}|PrototypeDesignPattern\\PrototypeDesignPattern.csproj|solutionrelative:prototypedesignpattern\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0073AFC-7263-4A18-AE28-A2E063E625A4}|PrototypeDesignPattern\\PrototypeDesignPattern.csproj|c:\\users\\abour\\source\\repos\\designpatternstraining\\prototypedesignpattern\\permenentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0073AFC-7263-4A18-AE28-A2E063E625A4}|PrototypeDesignPattern\\PrototypeDesignPattern.csproj|solutionrelative:prototypedesignpattern\\permenentemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 364,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdapterDesignPatern",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\AdapterDesignPatern.csproj",
+              "RelativeDocumentMoniker": "AdapterDesignPatern\\AdapterDesignPatern.csproj",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\AdapterDesignPatern.csproj",
+              "RelativeToolTip": "AdapterDesignPatern\\AdapterDesignPatern.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T13:09:25.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\Program.cs",
+              "RelativeDocumentMoniker": "AdapterDesignPatern\\Program.cs",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\Program.cs",
+              "RelativeToolTip": "AdapterDesignPatern\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:08:41.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\EmployeeAdapter.cs",
+              "RelativeDocumentMoniker": "AdapterDesignPatern\\EmployeeAdapter.cs",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\EmployeeAdapter.cs",
+              "RelativeToolTip": "AdapterDesignPatern\\EmployeeAdapter.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAkwDIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:07:27.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITarget.cs",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\ITarget.cs",
+              "RelativeDocumentMoniker": "AdapterDesignPatern\\ITarget.cs",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\ITarget.cs",
+              "RelativeToolTip": "AdapterDesignPatern\\ITarget.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:56:01.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThirdPartyBillingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\ThirdPartyBillingSystem.cs",
+              "RelativeDocumentMoniker": "AdapterDesignPatern\\ThirdPartyBillingSystem.cs",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\ThirdPartyBillingSystem.cs",
+              "RelativeToolTip": "AdapterDesignPatern\\ThirdPartyBillingSystem.cs",
+              "ViewState": "AQIAAAAAAAAAzMzMzMwnwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:53:52.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\Employee.cs",
+              "RelativeDocumentMoniker": "AdapterDesignPatern\\Employee.cs",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\Employee.cs",
+              "RelativeToolTip": "AdapterDesignPatern\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:50:56.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfigurationManager.cs",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\SingeltonDesignPattern\\ConfigurationManager.cs",
+              "RelativeDocumentMoniker": "SingeltonDesignPattern\\ConfigurationManager.cs",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\SingeltonDesignPattern\\ConfigurationManager.cs",
+              "RelativeToolTip": "SingeltonDesignPattern\\ConfigurationManager.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAWwCYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:22:12.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\SingeltonDesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "SingeltonDesignPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\SingeltonDesignPattern\\Program.cs",
+              "RelativeToolTip": "SingeltonDesignPattern\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T10:54:31.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\PrototypeDesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "PrototypeDesignPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\PrototypeDesignPattern\\Program.cs",
+              "RelativeToolTip": "PrototypeDesignPattern\\Program.cs",
+              "ViewState": "AQIAAA0AAADg//////8gwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T10:20:18.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PermenentEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\PrototypeDesignPattern\\PermenentEmployee.cs",
+              "RelativeDocumentMoniker": "PrototypeDesignPattern\\PermenentEmployee.cs",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\PrototypeDesignPattern\\PermenentEmployee.cs",
+              "RelativeToolTip": "PrototypeDesignPattern\\PermenentEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T10:16:35.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\PrototypeDesignPattern\\Employee.cs",
+              "RelativeDocumentMoniker": "PrototypeDesignPattern\\Employee.cs",
+              "ToolTip": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\PrototypeDesignPattern\\Employee.cs",
+              "RelativeToolTip": "PrototypeDesignPattern\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T10:14:12.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

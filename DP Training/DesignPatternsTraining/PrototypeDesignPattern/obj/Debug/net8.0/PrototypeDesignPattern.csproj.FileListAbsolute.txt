@@ -1,0 +1,14 @@
+C:\Users\abour\source\repos\DesignPatternsTraining\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.deps.json
+C:\Users\abour\source\repos\DesignPatternsTraining\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abour\source\repos\DesignPatternsTraining\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.AssemblyInfo.cs
+C:\Users\abour\source\repos\DesignPatternsTraining\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\PrototypeDesignPattern\obj\Debug\net8.0\refint\PrototypeDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\PrototypeDesignPattern\obj\Debug\net8.0\ref\PrototypeDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.exe
+C:\Users\abour\source\repos\DesignPatternsTraining\PrototypeDesignPattern\bin\Debug\net8.0\PrototypeDesignPattern.runtimeconfig.json
+C:\Users\abour\source\repos\DesignPatternsTraining\PrototypeDesignPattern\obj\Debug\net8.0\PrototypeDesignPattern.genruntimeconfig.cache

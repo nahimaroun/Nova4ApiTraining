@@ -1,0 +1,14 @@
+C:\Users\abour\source\repos\DesignPatternsTraining\SingeltonDesignPattern\bin\Debug\net8.0\SingeltonDesignPattern.exe
+C:\Users\abour\source\repos\DesignPatternsTraining\SingeltonDesignPattern\bin\Debug\net8.0\SingeltonDesignPattern.deps.json
+C:\Users\abour\source\repos\DesignPatternsTraining\SingeltonDesignPattern\bin\Debug\net8.0\SingeltonDesignPattern.runtimeconfig.json
+C:\Users\abour\source\repos\DesignPatternsTraining\SingeltonDesignPattern\bin\Debug\net8.0\SingeltonDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\SingeltonDesignPattern\bin\Debug\net8.0\SingeltonDesignPattern.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\SingeltonDesignPattern\obj\Debug\net8.0\SingeltonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abour\source\repos\DesignPatternsTraining\SingeltonDesignPattern\obj\Debug\net8.0\SingeltonDesignPattern.AssemblyInfoInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\SingeltonDesignPattern\obj\Debug\net8.0\SingeltonDesignPattern.AssemblyInfo.cs
+C:\Users\abour\source\repos\DesignPatternsTraining\SingeltonDesignPattern\obj\Debug\net8.0\SingeltonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\SingeltonDesignPattern\obj\Debug\net8.0\SingeltonDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\SingeltonDesignPattern\obj\Debug\net8.0\refint\SingeltonDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\SingeltonDesignPattern\obj\Debug\net8.0\SingeltonDesignPattern.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\SingeltonDesignPattern\obj\Debug\net8.0\SingeltonDesignPattern.genruntimeconfig.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\SingeltonDesignPattern\obj\Debug\net8.0\ref\SingeltonDesignPattern.dll

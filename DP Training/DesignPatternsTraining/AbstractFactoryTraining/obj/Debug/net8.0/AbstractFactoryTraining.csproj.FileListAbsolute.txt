@@ -1,0 +1,14 @@
+C:\Users\abour\source\repos\DesignPatternsTraining\AbstractFactoryTraining\bin\Debug\net8.0\AbstractFactoryTraining.exe
+C:\Users\abour\source\repos\DesignPatternsTraining\AbstractFactoryTraining\bin\Debug\net8.0\AbstractFactoryTraining.deps.json
+C:\Users\abour\source\repos\DesignPatternsTraining\AbstractFactoryTraining\bin\Debug\net8.0\AbstractFactoryTraining.runtimeconfig.json
+C:\Users\abour\source\repos\DesignPatternsTraining\AbstractFactoryTraining\bin\Debug\net8.0\AbstractFactoryTraining.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\AbstractFactoryTraining\bin\Debug\net8.0\AbstractFactoryTraining.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\AbstractFactoryTraining\obj\Debug\net8.0\AbstractFactoryTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abour\source\repos\DesignPatternsTraining\AbstractFactoryTraining\obj\Debug\net8.0\AbstractFactoryTraining.AssemblyInfoInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\AbstractFactoryTraining\obj\Debug\net8.0\AbstractFactoryTraining.AssemblyInfo.cs
+C:\Users\abour\source\repos\DesignPatternsTraining\AbstractFactoryTraining\obj\Debug\net8.0\AbstractFactoryTraining.csproj.CoreCompileInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\AbstractFactoryTraining\obj\Debug\net8.0\AbstractFactoryTraining.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\AbstractFactoryTraining\obj\Debug\net8.0\refint\AbstractFactoryTraining.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\AbstractFactoryTraining\obj\Debug\net8.0\AbstractFactoryTraining.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\AbstractFactoryTraining\obj\Debug\net8.0\AbstractFactoryTraining.genruntimeconfig.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\AbstractFactoryTraining\obj\Debug\net8.0\ref\AbstractFactoryTraining.dll
