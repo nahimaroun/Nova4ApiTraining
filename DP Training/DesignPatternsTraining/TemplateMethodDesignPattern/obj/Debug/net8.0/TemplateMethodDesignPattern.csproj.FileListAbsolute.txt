@@ -1,0 +1,11 @@
+C:\Users\abour\source\repos\DesignPatternsTraining\TemplateMethodDesignPattern\bin\Debug\net8.0\TemplateMethodDesignPattern.deps.json
+C:\Users\abour\source\repos\DesignPatternsTraining\TemplateMethodDesignPattern\bin\Debug\net8.0\TemplateMethodDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\TemplateMethodDesignPattern\bin\Debug\net8.0\TemplateMethodDesignPattern.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\TemplateMethodDesignPattern\obj\Debug\net8.0\TemplateMethodDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abour\source\repos\DesignPatternsTraining\TemplateMethodDesignPattern\obj\Debug\net8.0\TemplateMethodDesignPattern.AssemblyInfoInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\TemplateMethodDesignPattern\obj\Debug\net8.0\TemplateMethodDesignPattern.AssemblyInfo.cs
+C:\Users\abour\source\repos\DesignPatternsTraining\TemplateMethodDesignPattern\obj\Debug\net8.0\TemplateMethodDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\TemplateMethodDesignPattern\obj\Debug\net8.0\TemplateMethodDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\TemplateMethodDesignPattern\obj\Debug\net8.0\refint\TemplateMethodDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\TemplateMethodDesignPattern\obj\Debug\net8.0\TemplateMethodDesignPattern.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\TemplateMethodDesignPattern\obj\Debug\net8.0\ref\TemplateMethodDesignPattern.dll

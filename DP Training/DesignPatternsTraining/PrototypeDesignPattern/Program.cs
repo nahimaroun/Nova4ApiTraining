@@ -10,7 +10,7 @@
                 Name = "Anurag",
                 Department = "IT",
                 Type = "Permanent",
-                Salary = 100000
+                Salary = 125000
             };
 
             //Creating a Clone of the above Permanent Employee
@@ -24,8 +24,6 @@
             emp1.ShowDetails();
             Console.WriteLine("Cloned: Name And Department Value Changed");
             emp2.ShowDetails();
-
-            Console.Read();
         }
     }
 }

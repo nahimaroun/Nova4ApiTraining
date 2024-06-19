@@ -1,6 +1,6 @@
-﻿using AbstractFactoryTraining.AbstractFactory;
-using AbstractFactoryTraining.Furniture;
+﻿using AbstractFactoryTraining.Furniture;
 using AbstractFactoryTraining.Interfaces;
+using AbstractFactoryTrainingAbstractFactory;
 
 namespace AbstractFactoryTraining.ConcreteFactory
 {

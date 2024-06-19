@@ -1,0 +1,11 @@
+C:\Users\abour\source\repos\DesignPatternsTraining\BridgeDesignPattern\bin\Debug\net8.0\BridgeDesignPattern.deps.json
+C:\Users\abour\source\repos\DesignPatternsTraining\BridgeDesignPattern\bin\Debug\net8.0\BridgeDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\BridgeDesignPattern\bin\Debug\net8.0\BridgeDesignPattern.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\BridgeDesignPattern\obj\Debug\net8.0\BridgeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abour\source\repos\DesignPatternsTraining\BridgeDesignPattern\obj\Debug\net8.0\BridgeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\BridgeDesignPattern\obj\Debug\net8.0\BridgeDesignPattern.AssemblyInfo.cs
+C:\Users\abour\source\repos\DesignPatternsTraining\BridgeDesignPattern\obj\Debug\net8.0\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\BridgeDesignPattern\obj\Debug\net8.0\BridgeDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\BridgeDesignPattern\obj\Debug\net8.0\refint\BridgeDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\BridgeDesignPattern\obj\Debug\net8.0\BridgeDesignPattern.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\BridgeDesignPattern\obj\Debug\net8.0\ref\BridgeDesignPattern.dll

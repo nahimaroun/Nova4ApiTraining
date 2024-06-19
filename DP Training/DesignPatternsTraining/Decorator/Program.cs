@@ -9,7 +9,6 @@
             IComputer Type = ComputerFactory.GetComputer(Input);
             Console.WriteLine("This is a " + Type.PCType());
             Console.WriteLine("It has this " + Type.GPU() + " GPU.");
-            Console.ReadKey();
         }
     }
 }

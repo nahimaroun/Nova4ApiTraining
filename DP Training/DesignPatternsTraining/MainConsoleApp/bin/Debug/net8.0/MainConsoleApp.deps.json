@@ -1,0 +1,193 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MainConsoleApp/1.0.0": {
+        "dependencies": {
+          "AbstractFactoryTraining": "1.0.0",
+          "AdapterDesignPattern": "1.0.0",
+          "BridgeDesignPattern": "1.0.0",
+          "BuilderDesignPattern": "1.0.0",
+          "CORDesignPattern": "1.0.0",
+          "CommandDesignPattern": "1.0.0",
+          "CompositeDesignPattern": "1.0.0",
+          "DecoratorDesignPattern": "1.0.0",
+          "FacadeDesignPattern": "1.0.0",
+          "FactoryDesignPattern": "1.0.0",
+          "IteratorDesignPattern": "1.0.0",
+          "ObserverDesignPattern": "1.0.0",
+          "PrototypeDesignPattern": "1.0.0",
+          "SingletonDesignPattern": "1.0.0",
+          "TemplateMethodDesignPattern": "1.0.0"
+        },
+        "runtime": {
+          "MainConsoleApp.dll": {}
+        }
+      },
+      "AbstractFactoryTraining/1.0.0": {
+        "runtime": {
+          "AbstractFactoryTraining.dll": {}
+        }
+      },
+      "AdapterDesignPattern/1.0.0": {
+        "runtime": {
+          "AdapterDesignPattern.dll": {}
+        }
+      },
+      "BridgeDesignPattern/1.0.0": {
+        "runtime": {
+          "BridgeDesignPattern.dll": {}
+        }
+      },
+      "BuilderDesignPattern/1.0.0": {
+        "dependencies": {
+          "FactoryDesignPattern": "1.0.0"
+        },
+        "runtime": {
+          "BuilderDesignPattern.dll": {}
+        }
+      },
+      "CommandDesignPattern/1.0.0": {
+        "runtime": {
+          "CommandDesignPattern.dll": {}
+        }
+      },
+      "CompositeDesignPattern/1.0.0": {
+        "runtime": {
+          "CompositeDesignPattern.dll": {}
+        }
+      },
+      "CORDesignPattern/1.0.0": {
+        "runtime": {
+          "CORDesignPattern.dll": {}
+        }
+      },
+      "DecoratorDesignPattern/1.0.0": {
+        "runtime": {
+          "DecoratorDesignPattern.dll": {}
+        }
+      },
+      "FacadeDesignPattern/1.0.0": {
+        "runtime": {
+          "FacadeDesignPattern.dll": {}
+        }
+      },
+      "FactoryDesignPattern/1.0.0": {
+        "runtime": {
+          "FactoryDesignPattern.dll": {}
+        }
+      },
+      "IteratorDesignPattern/1.0.0": {
+        "runtime": {
+          "IteratorDesignPattern.dll": {}
+        }
+      },
+      "ObserverDesignPattern/1.0.0": {
+        "runtime": {
+          "ObserverDesignPattern.dll": {}
+        }
+      },
+      "PrototypeDesignPattern/1.0.0": {
+        "runtime": {
+          "PrototypeDesignPattern.dll": {}
+        }
+      },
+      "SingletonDesignPattern/1.0.0": {
+        "runtime": {
+          "SingletonDesignPattern.dll": {}
+        }
+      },
+      "TemplateMethodDesignPattern/1.0.0": {
+        "runtime": {
+          "TemplateMethodDesignPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MainConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbstractFactoryTraining/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdapterDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BridgeDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BuilderDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommandDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompositeDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CORDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DecoratorDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FacadeDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FactoryDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IteratorDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ObserverDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrototypeDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SingletonDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TemplateMethodDesignPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,6 +1,4 @@
-C:\Users\abour\source\repos\DesignPatternsTraining\AdapterDesignPatern\bin\Debug\net8.0\AdapterDesignPatern.exe
 C:\Users\abour\source\repos\DesignPatternsTraining\AdapterDesignPatern\bin\Debug\net8.0\AdapterDesignPatern.deps.json
-C:\Users\abour\source\repos\DesignPatternsTraining\AdapterDesignPatern\bin\Debug\net8.0\AdapterDesignPatern.runtimeconfig.json
 C:\Users\abour\source\repos\DesignPatternsTraining\AdapterDesignPatern\bin\Debug\net8.0\AdapterDesignPatern.dll
 C:\Users\abour\source\repos\DesignPatternsTraining\AdapterDesignPatern\bin\Debug\net8.0\AdapterDesignPatern.pdb
 C:\Users\abour\source\repos\DesignPatternsTraining\AdapterDesignPatern\obj\Debug\net8.0\AdapterDesignPatern.GeneratedMSBuildEditorConfig.editorconfig
@@ -10,5 +8,4 @@ C:\Users\abour\source\repos\DesignPatternsTraining\AdapterDesignPatern\obj\Debug
 C:\Users\abour\source\repos\DesignPatternsTraining\AdapterDesignPatern\obj\Debug\net8.0\AdapterDesignPatern.dll
 C:\Users\abour\source\repos\DesignPatternsTraining\AdapterDesignPatern\obj\Debug\net8.0\refint\AdapterDesignPatern.dll
 C:\Users\abour\source\repos\DesignPatternsTraining\AdapterDesignPatern\obj\Debug\net8.0\AdapterDesignPatern.pdb
-C:\Users\abour\source\repos\DesignPatternsTraining\AdapterDesignPatern\obj\Debug\net8.0\AdapterDesignPatern.genruntimeconfig.cache
 C:\Users\abour\source\repos\DesignPatternsTraining\AdapterDesignPatern\obj\Debug\net8.0\ref\AdapterDesignPatern.dll

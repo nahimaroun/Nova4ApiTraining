@@ -1,0 +1,366 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AbstractFactoryTraining/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AbstractFactoryTraining.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AbstractFactoryTraining.dll": {}
+        }
+      },
+      "AdapterDesignPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AdapterDesignPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AdapterDesignPattern.dll": {}
+        }
+      },
+      "BridgeDesignPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BridgeDesignPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BridgeDesignPattern.dll": {}
+        }
+      },
+      "BuilderDesignPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "FactoryDesignPattern": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BuilderDesignPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuilderDesignPattern.dll": {}
+        }
+      },
+      "CommandDesignPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommandDesignPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommandDesignPattern.dll": {}
+        }
+      },
+      "CompositeDesignPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CompositeDesignPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CompositeDesignPattern.dll": {}
+        }
+      },
+      "CORDesignPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CORDesignPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CORDesignPattern.dll": {}
+        }
+      },
+      "DecoratorDesignPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DecoratorDesignPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DecoratorDesignPattern.dll": {}
+        }
+      },
+      "FacadeDesignPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/FacadeDesignPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FacadeDesignPattern.dll": {}
+        }
+      },
+      "FactoryDesignPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/FactoryDesignPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FactoryDesignPattern.dll": {}
+        }
+      },
+      "IteratorDesignPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/IteratorDesignPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IteratorDesignPattern.dll": {}
+        }
+      },
+      "ObserverDesignPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ObserverDesignPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ObserverDesignPattern.dll": {}
+        }
+      },
+      "PrototypeDesignPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PrototypeDesignPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrototypeDesignPattern.dll": {}
+        }
+      },
+      "SingletonDesignPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SingletonDesignPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SingletonDesignPattern.dll": {}
+        }
+      },
+      "TemplateMethodDesignPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/TemplateMethodDesignPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TemplateMethodDesignPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractFactoryTraining/1.0.0": {
+      "type": "project",
+      "path": "../AbstractFactoryTraining/AbstractFactoryTraining.csproj",
+      "msbuildProject": "../AbstractFactoryTraining/AbstractFactoryTraining.csproj"
+    },
+    "AdapterDesignPattern/1.0.0": {
+      "type": "project",
+      "path": "../AdapterDesignPatern/AdapterDesignPattern.csproj",
+      "msbuildProject": "../AdapterDesignPatern/AdapterDesignPattern.csproj"
+    },
+    "BridgeDesignPattern/1.0.0": {
+      "type": "project",
+      "path": "../BridgeDesignPattern/BridgeDesignPattern.csproj",
+      "msbuildProject": "../BridgeDesignPattern/BridgeDesignPattern.csproj"
+    },
+    "BuilderDesignPattern/1.0.0": {
+      "type": "project",
+      "path": "../DesignPatternsTraining/BuilderDesignPattern.csproj",
+      "msbuildProject": "../DesignPatternsTraining/BuilderDesignPattern.csproj"
+    },
+    "CommandDesignPattern/1.0.0": {
+      "type": "project",
+      "path": "../CommandDesignPattern/CommandDesignPattern.csproj",
+      "msbuildProject": "../CommandDesignPattern/CommandDesignPattern.csproj"
+    },
+    "CompositeDesignPattern/1.0.0": {
+      "type": "project",
+      "path": "../CompositeDesignPattern/CompositeDesignPattern.csproj",
+      "msbuildProject": "../CompositeDesignPattern/CompositeDesignPattern.csproj"
+    },
+    "CORDesignPattern/1.0.0": {
+      "type": "project",
+      "path": "../CORDesignPattern/CORDesignPattern.csproj",
+      "msbuildProject": "../CORDesignPattern/CORDesignPattern.csproj"
+    },
+    "DecoratorDesignPattern/1.0.0": {
+      "type": "project",
+      "path": "../DecoratorDesignPattern/DecoratorDesignPattern.csproj",
+      "msbuildProject": "../DecoratorDesignPattern/DecoratorDesignPattern.csproj"
+    },
+    "FacadeDesignPattern/1.0.0": {
+      "type": "project",
+      "path": "../FacadeDesignPattern/FacadeDesignPattern.csproj",
+      "msbuildProject": "../FacadeDesignPattern/FacadeDesignPattern.csproj"
+    },
+    "FactoryDesignPattern/1.0.0": {
+      "type": "project",
+      "path": "../Decorator/FactoryDesignPattern.csproj",
+      "msbuildProject": "../Decorator/FactoryDesignPattern.csproj"
+    },
+    "IteratorDesignPattern/1.0.0": {
+      "type": "project",
+      "path": "../IteratorDesignPattern/IteratorDesignPattern.csproj",
+      "msbuildProject": "../IteratorDesignPattern/IteratorDesignPattern.csproj"
+    },
+    "ObserverDesignPattern/1.0.0": {
+      "type": "project",
+      "path": "../ObserverDesignPattern/ObserverDesignPattern.csproj",
+      "msbuildProject": "../ObserverDesignPattern/ObserverDesignPattern.csproj"
+    },
+    "PrototypeDesignPattern/1.0.0": {
+      "type": "project",
+      "path": "../PrototypeDesignPattern/PrototypeDesignPattern.csproj",
+      "msbuildProject": "../PrototypeDesignPattern/PrototypeDesignPattern.csproj"
+    },
+    "SingletonDesignPattern/1.0.0": {
+      "type": "project",
+      "path": "../SingeltonDesignPattern/SingletonDesignPattern.csproj",
+      "msbuildProject": "../SingeltonDesignPattern/SingletonDesignPattern.csproj"
+    },
+    "TemplateMethodDesignPattern/1.0.0": {
+      "type": "project",
+      "path": "../TemplateMethodDesignPattern/TemplateMethodDesignPattern.csproj",
+      "msbuildProject": "../TemplateMethodDesignPattern/TemplateMethodDesignPattern.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AbstractFactoryTraining >= 1.0.0",
+      "AdapterDesignPattern >= 1.0.0",
+      "BridgeDesignPattern >= 1.0.0",
+      "BuilderDesignPattern >= 1.0.0",
+      "CORDesignPattern >= 1.0.0",
+      "CommandDesignPattern >= 1.0.0",
+      "CompositeDesignPattern >= 1.0.0",
+      "DecoratorDesignPattern >= 1.0.0",
+      "FacadeDesignPattern >= 1.0.0",
+      "FactoryDesignPattern >= 1.0.0",
+      "IteratorDesignPattern >= 1.0.0",
+      "ObserverDesignPattern >= 1.0.0",
+      "PrototypeDesignPattern >= 1.0.0",
+      "SingletonDesignPattern >= 1.0.0",
+      "TemplateMethodDesignPattern >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\abour\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\MainConsoleApp\\MainConsoleApp.csproj",
+      "projectName": "MainConsoleApp",
+      "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\MainConsoleApp\\MainConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\MainConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\abour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AbstractFactoryTraining\\AbstractFactoryTraining.csproj": {
+              "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AbstractFactoryTraining\\AbstractFactoryTraining.csproj"
+            },
+            "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\AdapterDesignPattern.csproj": {
+              "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\AdapterDesignPattern.csproj"
+            },
+            "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\BridgeDesignPattern\\BridgeDesignPattern.csproj": {
+              "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\BridgeDesignPattern\\BridgeDesignPattern.csproj"
+            },
+            "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CommandDesignPattern\\CommandDesignPattern.csproj": {
+              "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CommandDesignPattern\\CommandDesignPattern.csproj"
+            },
+            "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CompositeDesignPattern\\CompositeDesignPattern.csproj": {
+              "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CompositeDesignPattern\\CompositeDesignPattern.csproj"
+            },
+            "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CORDesignPattern\\CORDesignPattern.csproj": {
+              "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CORDesignPattern\\CORDesignPattern.csproj"
+            },
+            "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\DecoratorDesignPattern\\DecoratorDesignPattern.csproj": {
+              "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\DecoratorDesignPattern\\DecoratorDesignPattern.csproj"
+            },
+            "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\Decorator\\FactoryDesignPattern.csproj": {
+              "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\Decorator\\FactoryDesignPattern.csproj"
+            },
+            "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\DesignPatternsTraining\\BuilderDesignPattern.csproj": {
+              "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\DesignPatternsTraining\\BuilderDesignPattern.csproj"
+            },
+            "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\FacadeDesignPattern\\FacadeDesignPattern.csproj": {
+              "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\FacadeDesignPattern\\FacadeDesignPattern.csproj"
+            },
+            "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\IteratorDesignPattern\\IteratorDesignPattern.csproj": {
+              "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\IteratorDesignPattern\\IteratorDesignPattern.csproj"
+            },
+            "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\ObserverDesignPattern\\ObserverDesignPattern.csproj": {
+              "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\ObserverDesignPattern\\ObserverDesignPattern.csproj"
+            },
+            "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\PrototypeDesignPattern\\PrototypeDesignPattern.csproj": {
+              "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\PrototypeDesignPattern\\PrototypeDesignPattern.csproj"
+            },
+            "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\SingeltonDesignPattern\\SingletonDesignPattern.csproj": {
+              "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\SingeltonDesignPattern\\SingletonDesignPattern.csproj"
+            },
+            "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\TemplateMethodDesignPattern\\TemplateMethodDesignPattern.csproj": {
+              "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\TemplateMethodDesignPattern\\TemplateMethodDesignPattern.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

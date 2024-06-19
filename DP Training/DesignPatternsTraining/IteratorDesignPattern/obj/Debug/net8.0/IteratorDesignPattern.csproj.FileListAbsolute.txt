@@ -1,0 +1,11 @@
+C:\Users\abour\source\repos\DesignPatternsTraining\IteratorDesignPattern\obj\Debug\net8.0\IteratorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abour\source\repos\DesignPatternsTraining\IteratorDesignPattern\obj\Debug\net8.0\IteratorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\IteratorDesignPattern\obj\Debug\net8.0\IteratorDesignPattern.AssemblyInfo.cs
+C:\Users\abour\source\repos\DesignPatternsTraining\IteratorDesignPattern\obj\Debug\net8.0\IteratorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\IteratorDesignPattern\bin\Debug\net8.0\IteratorDesignPattern.deps.json
+C:\Users\abour\source\repos\DesignPatternsTraining\IteratorDesignPattern\bin\Debug\net8.0\IteratorDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\IteratorDesignPattern\bin\Debug\net8.0\IteratorDesignPattern.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\IteratorDesignPattern\obj\Debug\net8.0\IteratorDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\IteratorDesignPattern\obj\Debug\net8.0\refint\IteratorDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\IteratorDesignPattern\obj\Debug\net8.0\IteratorDesignPattern.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\IteratorDesignPattern\obj\Debug\net8.0\ref\IteratorDesignPattern.dll

@@ -1,4 +1,4 @@
-﻿namespace AdapterDesignPatern
+﻿namespace AdapterDesignPattern
 {
     // This is the class that makes two incompatible interfaces or systems work together.
     // The Adapter makes the Adaptee's interface compatible with the Target's interface.

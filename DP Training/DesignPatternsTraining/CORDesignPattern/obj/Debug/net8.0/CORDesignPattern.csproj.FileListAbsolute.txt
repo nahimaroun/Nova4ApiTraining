@@ -1,0 +1,11 @@
+C:\Users\abour\source\repos\DesignPatternsTraining\CORDesignPattern\obj\Debug\net8.0\CORDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abour\source\repos\DesignPatternsTraining\CORDesignPattern\obj\Debug\net8.0\CORDesignPattern.AssemblyInfoInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\CORDesignPattern\obj\Debug\net8.0\CORDesignPattern.AssemblyInfo.cs
+C:\Users\abour\source\repos\DesignPatternsTraining\CORDesignPattern\obj\Debug\net8.0\CORDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\CORDesignPattern\bin\Debug\net8.0\CORDesignPattern.deps.json
+C:\Users\abour\source\repos\DesignPatternsTraining\CORDesignPattern\bin\Debug\net8.0\CORDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\CORDesignPattern\bin\Debug\net8.0\CORDesignPattern.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\CORDesignPattern\obj\Debug\net8.0\CORDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\CORDesignPattern\obj\Debug\net8.0\refint\CORDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\CORDesignPattern\obj\Debug\net8.0\CORDesignPattern.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\CORDesignPattern\obj\Debug\net8.0\ref\CORDesignPattern.dll

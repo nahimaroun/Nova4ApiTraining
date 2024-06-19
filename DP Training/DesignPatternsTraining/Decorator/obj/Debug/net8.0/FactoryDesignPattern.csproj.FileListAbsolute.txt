@@ -1,14 +1,11 @@
+C:\Users\abour\source\repos\DesignPatternsTraining\Decorator\bin\Debug\net8.0\FactoryDesignPattern.deps.json
+C:\Users\abour\source\repos\DesignPatternsTraining\Decorator\bin\Debug\net8.0\FactoryDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\Decorator\bin\Debug\net8.0\FactoryDesignPattern.pdb
 C:\Users\abour\source\repos\DesignPatternsTraining\Decorator\obj\Debug\net8.0\FactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\abour\source\repos\DesignPatternsTraining\Decorator\obj\Debug\net8.0\FactoryDesignPattern.AssemblyInfoInputs.cache
 C:\Users\abour\source\repos\DesignPatternsTraining\Decorator\obj\Debug\net8.0\FactoryDesignPattern.AssemblyInfo.cs
 C:\Users\abour\source\repos\DesignPatternsTraining\Decorator\obj\Debug\net8.0\FactoryDesignPattern.csproj.CoreCompileInputs.cache
-C:\Users\abour\source\repos\DesignPatternsTraining\Decorator\bin\Debug\net8.0\FactoryDesignPattern.deps.json
-C:\Users\abour\source\repos\DesignPatternsTraining\Decorator\bin\Debug\net8.0\FactoryDesignPattern.dll
-C:\Users\abour\source\repos\DesignPatternsTraining\Decorator\bin\Debug\net8.0\FactoryDesignPattern.pdb
 C:\Users\abour\source\repos\DesignPatternsTraining\Decorator\obj\Debug\net8.0\FactoryDesignPattern.dll
 C:\Users\abour\source\repos\DesignPatternsTraining\Decorator\obj\Debug\net8.0\refint\FactoryDesignPattern.dll
 C:\Users\abour\source\repos\DesignPatternsTraining\Decorator\obj\Debug\net8.0\FactoryDesignPattern.pdb
 C:\Users\abour\source\repos\DesignPatternsTraining\Decorator\obj\Debug\net8.0\ref\FactoryDesignPattern.dll
-C:\Users\abour\source\repos\DesignPatternsTraining\Decorator\bin\Debug\net8.0\FactoryDesignPattern.exe
-C:\Users\abour\source\repos\DesignPatternsTraining\Decorator\bin\Debug\net8.0\FactoryDesignPattern.runtimeconfig.json
-C:\Users\abour\source\repos\DesignPatternsTraining\Decorator\obj\Debug\net8.0\FactoryDesignPattern.genruntimeconfig.cache

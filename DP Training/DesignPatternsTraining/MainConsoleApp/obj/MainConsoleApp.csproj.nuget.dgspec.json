@@ -1,0 +1,1034 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\MainConsoleApp\\MainConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AbstractFactoryTraining\\AbstractFactoryTraining.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AbstractFactoryTraining\\AbstractFactoryTraining.csproj",
+        "projectName": "AbstractFactoryTraining",
+        "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AbstractFactoryTraining\\AbstractFactoryTraining.csproj",
+        "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AbstractFactoryTraining\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\AdapterDesignPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\AdapterDesignPattern.csproj",
+        "projectName": "AdapterDesignPattern",
+        "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\AdapterDesignPattern.csproj",
+        "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\BridgeDesignPattern\\BridgeDesignPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\BridgeDesignPattern\\BridgeDesignPattern.csproj",
+        "projectName": "BridgeDesignPattern",
+        "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\BridgeDesignPattern\\BridgeDesignPattern.csproj",
+        "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\BridgeDesignPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CommandDesignPattern\\CommandDesignPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CommandDesignPattern\\CommandDesignPattern.csproj",
+        "projectName": "CommandDesignPattern",
+        "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CommandDesignPattern\\CommandDesignPattern.csproj",
+        "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CommandDesignPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CompositeDesignPattern\\CompositeDesignPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CompositeDesignPattern\\CompositeDesignPattern.csproj",
+        "projectName": "CompositeDesignPattern",
+        "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CompositeDesignPattern\\CompositeDesignPattern.csproj",
+        "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CompositeDesignPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CORDesignPattern\\CORDesignPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CORDesignPattern\\CORDesignPattern.csproj",
+        "projectName": "CORDesignPattern",
+        "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CORDesignPattern\\CORDesignPattern.csproj",
+        "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CORDesignPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\DecoratorDesignPattern\\DecoratorDesignPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\DecoratorDesignPattern\\DecoratorDesignPattern.csproj",
+        "projectName": "DecoratorDesignPattern",
+        "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\DecoratorDesignPattern\\DecoratorDesignPattern.csproj",
+        "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\DecoratorDesignPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\Decorator\\FactoryDesignPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\Decorator\\FactoryDesignPattern.csproj",
+        "projectName": "FactoryDesignPattern",
+        "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\Decorator\\FactoryDesignPattern.csproj",
+        "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\Decorator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\DesignPatternsTraining\\BuilderDesignPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\DesignPatternsTraining\\BuilderDesignPattern.csproj",
+        "projectName": "BuilderDesignPattern",
+        "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\DesignPatternsTraining\\BuilderDesignPattern.csproj",
+        "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\DesignPatternsTraining\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\Decorator\\FactoryDesignPattern.csproj": {
+                "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\Decorator\\FactoryDesignPattern.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\FacadeDesignPattern\\FacadeDesignPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\FacadeDesignPattern\\FacadeDesignPattern.csproj",
+        "projectName": "FacadeDesignPattern",
+        "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\FacadeDesignPattern\\FacadeDesignPattern.csproj",
+        "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\FacadeDesignPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\IteratorDesignPattern\\IteratorDesignPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\IteratorDesignPattern\\IteratorDesignPattern.csproj",
+        "projectName": "IteratorDesignPattern",
+        "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\IteratorDesignPattern\\IteratorDesignPattern.csproj",
+        "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\IteratorDesignPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\MainConsoleApp\\MainConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\MainConsoleApp\\MainConsoleApp.csproj",
+        "projectName": "MainConsoleApp",
+        "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\MainConsoleApp\\MainConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\MainConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AbstractFactoryTraining\\AbstractFactoryTraining.csproj": {
+                "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AbstractFactoryTraining\\AbstractFactoryTraining.csproj"
+              },
+              "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\AdapterDesignPattern.csproj": {
+                "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\AdapterDesignPattern.csproj"
+              },
+              "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\BridgeDesignPattern\\BridgeDesignPattern.csproj": {
+                "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\BridgeDesignPattern\\BridgeDesignPattern.csproj"
+              },
+              "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CommandDesignPattern\\CommandDesignPattern.csproj": {
+                "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CommandDesignPattern\\CommandDesignPattern.csproj"
+              },
+              "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CompositeDesignPattern\\CompositeDesignPattern.csproj": {
+                "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CompositeDesignPattern\\CompositeDesignPattern.csproj"
+              },
+              "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CORDesignPattern\\CORDesignPattern.csproj": {
+                "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\CORDesignPattern\\CORDesignPattern.csproj"
+              },
+              "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\DecoratorDesignPattern\\DecoratorDesignPattern.csproj": {
+                "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\DecoratorDesignPattern\\DecoratorDesignPattern.csproj"
+              },
+              "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\Decorator\\FactoryDesignPattern.csproj": {
+                "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\Decorator\\FactoryDesignPattern.csproj"
+              },
+              "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\DesignPatternsTraining\\BuilderDesignPattern.csproj": {
+                "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\DesignPatternsTraining\\BuilderDesignPattern.csproj"
+              },
+              "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\FacadeDesignPattern\\FacadeDesignPattern.csproj": {
+                "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\FacadeDesignPattern\\FacadeDesignPattern.csproj"
+              },
+              "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\IteratorDesignPattern\\IteratorDesignPattern.csproj": {
+                "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\IteratorDesignPattern\\IteratorDesignPattern.csproj"
+              },
+              "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\ObserverDesignPattern\\ObserverDesignPattern.csproj": {
+                "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\ObserverDesignPattern\\ObserverDesignPattern.csproj"
+              },
+              "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\PrototypeDesignPattern\\PrototypeDesignPattern.csproj": {
+                "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\PrototypeDesignPattern\\PrototypeDesignPattern.csproj"
+              },
+              "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\SingeltonDesignPattern\\SingletonDesignPattern.csproj": {
+                "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\SingeltonDesignPattern\\SingletonDesignPattern.csproj"
+              },
+              "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\TemplateMethodDesignPattern\\TemplateMethodDesignPattern.csproj": {
+                "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\TemplateMethodDesignPattern\\TemplateMethodDesignPattern.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\ObserverDesignPattern\\ObserverDesignPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\ObserverDesignPattern\\ObserverDesignPattern.csproj",
+        "projectName": "ObserverDesignPattern",
+        "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\ObserverDesignPattern\\ObserverDesignPattern.csproj",
+        "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\ObserverDesignPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\PrototypeDesignPattern\\PrototypeDesignPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\PrototypeDesignPattern\\PrototypeDesignPattern.csproj",
+        "projectName": "PrototypeDesignPattern",
+        "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\PrototypeDesignPattern\\PrototypeDesignPattern.csproj",
+        "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\PrototypeDesignPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\SingeltonDesignPattern\\SingletonDesignPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\SingeltonDesignPattern\\SingletonDesignPattern.csproj",
+        "projectName": "SingletonDesignPattern",
+        "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\SingeltonDesignPattern\\SingletonDesignPattern.csproj",
+        "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\SingeltonDesignPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\TemplateMethodDesignPattern\\TemplateMethodDesignPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\TemplateMethodDesignPattern\\TemplateMethodDesignPattern.csproj",
+        "projectName": "TemplateMethodDesignPattern",
+        "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\TemplateMethodDesignPattern\\TemplateMethodDesignPattern.csproj",
+        "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\TemplateMethodDesignPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

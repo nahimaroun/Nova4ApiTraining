@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\SingeltonDesignPattern\\SingeltonDesignPattern.csproj",
-      "projectName": "SingeltonDesignPattern",
-      "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\SingeltonDesignPattern\\SingeltonDesignPattern.csproj",
+      "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\SingeltonDesignPattern\\SingletonDesignPattern.csproj",
+      "projectName": "SingletonDesignPattern",
+      "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\SingeltonDesignPattern\\SingletonDesignPattern.csproj",
       "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\SingeltonDesignPattern\\obj\\",
       "projectStyle": "PackageReference",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

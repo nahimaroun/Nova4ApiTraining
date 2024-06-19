@@ -1,0 +1,11 @@
+C:\Users\abour\source\repos\DesignPatternsTraining\FacadeDesignPattern\bin\Debug\net8.0\FacadeDesignPattern.deps.json
+C:\Users\abour\source\repos\DesignPatternsTraining\FacadeDesignPattern\bin\Debug\net8.0\FacadeDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\FacadeDesignPattern\bin\Debug\net8.0\FacadeDesignPattern.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abour\source\repos\DesignPatternsTraining\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.AssemblyInfo.cs
+C:\Users\abour\source\repos\DesignPatternsTraining\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\FacadeDesignPattern\obj\Debug\net8.0\refint\FacadeDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\FacadeDesignPattern\obj\Debug\net8.0\ref\FacadeDesignPattern.dll

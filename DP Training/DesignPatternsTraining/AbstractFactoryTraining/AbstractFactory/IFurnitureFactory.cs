@@ -1,6 +1,6 @@
 ﻿using AbstractFactoryTraining.Interfaces;
 
-namespace AbstractFactoryTraining.AbstractFactory
+namespace AbstractFactoryTrainingAbstractFactory
 {
     internal interface IFurnitureFactory
     {

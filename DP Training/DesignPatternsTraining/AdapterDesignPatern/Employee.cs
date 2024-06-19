@@ -1,4 +1,4 @@
-﻿namespace AdapterDesignPatern
+﻿namespace AdapterDesignPattern
 {
     public class Employee
     {

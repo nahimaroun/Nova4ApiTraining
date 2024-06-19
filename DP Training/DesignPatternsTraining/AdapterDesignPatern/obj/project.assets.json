@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\AdapterDesignPatern.csproj",
-      "projectName": "AdapterDesignPatern",
-      "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\AdapterDesignPatern.csproj",
+      "projectUniqueName": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\AdapterDesignPattern.csproj",
+      "projectName": "AdapterDesignPattern",
+      "projectPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\AdapterDesignPattern.csproj",
       "packagesPath": "C:\\Users\\abour\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\abour\\source\\repos\\DesignPatternsTraining\\AdapterDesignPatern\\obj\\",
       "projectStyle": "PackageReference",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,4 +1,4 @@
-﻿namespace AdapterDesignPatern
+﻿namespace AdapterDesignPattern
 {
     // The ITarget defines the domain-specific interface used by the client code.
     // This interface needs to be implemented by the Adapter.

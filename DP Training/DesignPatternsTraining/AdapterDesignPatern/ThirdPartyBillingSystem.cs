@@ -1,4 +1,4 @@
-﻿namespace AdapterDesignPatern
+﻿namespace AdapterDesignPattern
 {
     // The Adaptee contains some functionality that is required by the client.
     // But this interface is not compatible with the client code.
@@ -9,7 +9,7 @@
         {
             foreach (Employee employee in listEmployee)
             {
-                Console.WriteLine("Rs." + employee.Salary + " Salary Credited to " + employee.Name + " Account");
+                Console.WriteLine(employee.Salary + "$ Salary Credited to " + employee.Name + " Account");
             }
         }
     }

@@ -1,0 +1,11 @@
+C:\Users\abour\source\repos\DesignPatternsTraining\DecoratorDesignPattern\bin\Debug\net8.0\DecoratorDesignPattern.deps.json
+C:\Users\abour\source\repos\DesignPatternsTraining\DecoratorDesignPattern\bin\Debug\net8.0\DecoratorDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\DecoratorDesignPattern\bin\Debug\net8.0\DecoratorDesignPattern.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\DecoratorDesignPattern\obj\Debug\net8.0\DecoratorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abour\source\repos\DesignPatternsTraining\DecoratorDesignPattern\obj\Debug\net8.0\DecoratorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\DecoratorDesignPattern\obj\Debug\net8.0\DecoratorDesignPattern.AssemblyInfo.cs
+C:\Users\abour\source\repos\DesignPatternsTraining\DecoratorDesignPattern\obj\Debug\net8.0\DecoratorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\DecoratorDesignPattern\obj\Debug\net8.0\DecoratorDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\DecoratorDesignPattern\obj\Debug\net8.0\refint\DecoratorDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\DecoratorDesignPattern\obj\Debug\net8.0\DecoratorDesignPattern.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\DecoratorDesignPattern\obj\Debug\net8.0\ref\DecoratorDesignPattern.dll

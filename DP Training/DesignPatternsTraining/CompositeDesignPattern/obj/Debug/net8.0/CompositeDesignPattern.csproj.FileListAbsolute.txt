@@ -1,0 +1,11 @@
+C:\Users\abour\source\repos\DesignPatternsTraining\CompositeDesignPattern\bin\Debug\net8.0\CompositeDesignPattern.deps.json
+C:\Users\abour\source\repos\DesignPatternsTraining\CompositeDesignPattern\bin\Debug\net8.0\CompositeDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\CompositeDesignPattern\bin\Debug\net8.0\CompositeDesignPattern.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abour\source\repos\DesignPatternsTraining\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.AssemblyInfo.cs
+C:\Users\abour\source\repos\DesignPatternsTraining\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\abour\source\repos\DesignPatternsTraining\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\CompositeDesignPattern\obj\Debug\net8.0\refint\CompositeDesignPattern.dll
+C:\Users\abour\source\repos\DesignPatternsTraining\CompositeDesignPattern\obj\Debug\net8.0\CompositeDesignPattern.pdb
+C:\Users\abour\source\repos\DesignPatternsTraining\CompositeDesignPattern\obj\Debug\net8.0\ref\CompositeDesignPattern.dll

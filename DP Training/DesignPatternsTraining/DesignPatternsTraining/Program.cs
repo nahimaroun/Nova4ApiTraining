@@ -1,7 +1,7 @@
 ﻿using DesignPatternsTraining.BuilderDesignPattern;
 
 
-namespace DesignPatternsTraining
+namespace BuilderDesignPattern
 {
 
     class Program
@@ -17,7 +17,7 @@ namespace DesignPatternsTraining
         }
 
         //---------------------------------------------------------------------
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
 
             //Builder implementation
