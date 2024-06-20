@@ -24,7 +24,7 @@ This project covers the following design patterns:
 (The language used to code these examples:  C# ) 
 (All these Examples are made in Class Libraries, To run them Go to "MainConsoleApp" and run the "Program.cs" file)
 
-○ Creational Patterns:
+## ○ Creational Patterns:
 ----------------------
 Creational patterns deal with object creation mechanisms, aiming to create objects in a manner suitable to the situation. These patterns provide various ways to instantiate objects, which increase the flexibility and reuse of existing code.
 ____________________________
@@ -63,7 +63,7 @@ ____________________________
 ____________________________
 
 
-○  Structural Patterns:
+## ○  Structural Patterns:
 -----------------------
 Structural patterns concern class and object composition. They use inheritance to compose interfaces and define ways to compose objects to obtain new functionalities.
 ____________________________
@@ -102,7 +102,7 @@ ____________________________
 ____________________________
 
 
-○ Behavioral Patterns:
+## ○ Behavioral Patterns:
 ----------------------
 Behavioral patterns are concerned with algorithms and the assignment of responsibilities between objects. These patterns help define how objects interact and communicate with each other.
 _________________________________________
