@@ -21,6 +21,8 @@ cd DP Training/DesignPatternsTraining
 
 🧩 Design Patterns
 This project covers the following design patterns:
+(The language used to code these examples:  C# ) 
+(All these Examples are made in Class Libraries, To run them Go to "MainConsoleApp" and run the "Program.cs" file)
 
 ● Creational Patterns:
 _______________________
@@ -136,4 +138,12 @@ The Template Method pattern defines the skeleton of an algorithm in an operation
 For any questions or suggestions, feel free to reach out:
 
 Email: Nahi.Rostom@hotmail.com
-Instagram: @Nahi__ar
+
+
+## 📚 References
+This project was inspired by and utilizes concepts from the following resources:
+
+Info about DPs: https://refactoring.guru/design-patterns/
+Example are from: - https://www.c-sharpcorner.com/
+                  - https://dotnettutorials.net/
+                  - https://refactoring.guru/
