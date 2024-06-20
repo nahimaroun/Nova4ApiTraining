@@ -143,7 +143,7 @@ Email: Nahi.Rostom@hotmail.com
 ## 📚 References
 This project was inspired by and utilizes concepts from the following resources:
 
-Info about DPs: https://refactoring.guru/design-patterns/
-Example are from: - https://www.c-sharpcorner.com/
-                  - https://dotnettutorials.net/
-                  - https://refactoring.guru/
+Information about DPs: https://refactoring.guru/design-patterns/
+Examples are from: - https://www.c-sharpcorner.com/
+                   - https://dotnettutorials.net/
+                   - https://refactoring.guru/
