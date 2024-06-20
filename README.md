@@ -25,11 +25,11 @@ This project covers the following design patterns:
 (All these Examples are made in Class Libraries, To run them Go to "MainConsoleApp" and run the "Program.cs" file)
 
 ○ Creational Patterns:
-______________________
+----------------------
 Creational patterns deal with object creation mechanisms, aiming to create objects in a manner suitable to the situation. These patterns provide various ways to instantiate objects, which increase the flexibility and reuse of existing code.
 
 ● Singleton Design Pattern:
-----------------------------
+__________________________
 The Singleton pattern ensures that a class has only one instance and provides a global point of access to that instance. This is useful when exactly one object is needed to coordinate actions across the system.
 
 *Example: SingletonDesignPattern.dll*
