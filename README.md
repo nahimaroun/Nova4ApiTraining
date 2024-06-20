@@ -7,9 +7,9 @@ Welcome to the **Design Patterns Project**! This project is a comprehensive guid
 - [Introduction](#-introduction)
 - [Installation](#-installation)
 - [Design Patterns](#-design-patterns)
-  - [Creational Patterns](#creational-patterns)
-  - [Structural Patterns](#structural-patterns)
-  - [Behavioral Patterns](#behavioral-patterns)
+  - [Creational Patterns](#-creational-patterns)
+  - [Structural Patterns](#--structural-patterns)
+  - [Behavioral Patterns](#-behavioral-patterns)
 - [References](#-References)
 
 ## 🛠 Installation
@@ -60,13 +60,12 @@ The Builder pattern separates the construction of a complex object from its repr
 *Example: BuilderDesignPattern.dll*
 
 
-____________________________
-____________________________
 
 
 ## ○  Structural Patterns:
 -----------------------
 Structural patterns concern class and object composition. They use inheritance to compose interfaces and define ways to compose objects to obtain new functionalities.
+
 ____________________________
 ● Adapter Design Pattern:
 
@@ -99,13 +98,12 @@ The Facade pattern provides a unified interface to a set of interfaces in a subs
 *Example: FacadeDesignPattern.dll*
 
 
-____________________________
-____________________________
 
 
 ## ○ Behavioral Patterns:
 ----------------------
 Behavioral patterns are concerned with algorithms and the assignment of responsibilities between objects. These patterns help define how objects interact and communicate with each other.
+
 _________________________________________
 ● Chain of Responsibility Design Pattern:
 
