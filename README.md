@@ -19,7 +19,7 @@ git clone https://github.com/nahimaroun/Nova4ApiTraining.git
 cd DP Training/DesignPatternsTraining
 # Install dependencies (if any)
 
-🧩 Design Patterns
+## 🧩 Design Patterns
 This project covers the following design patterns:
 (The language used to code these examples:  C# ) 
 (All these Examples are made in Class Libraries, To run them Go to "MainConsoleApp" and run the "Program.cs" file)
