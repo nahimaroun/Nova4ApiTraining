@@ -138,9 +138,15 @@ The Template Method pattern defines the skeleton of an algorithm in an operation
 ## 📚 References
 This project was inspired by and utilizes concepts from the following resources:
 
-Information about DPs: [Refactoring Guru]( https://refactoring.guru/design-patterns/)
+Information And Images:
+
+[Refactoring Guru]( https://refactoring.guru/design-patterns/)
 
 
-Examples are from: -[C# Corner](https://www.c-sharpcorner.com/)
-                   -[Dot Net Tutorials](https://dotnettutorials.net/)
-                   -[Refactoring Guru]( https://refactoring.guru/design-patterns/)
+Examples are from:
+
+-[C# Corner](https://www.c-sharpcorner.com/)
+                   
+-[Dot Net Tutorials](https://dotnettutorials.net/)
+                  
+-[Refactoring Guru]( https://refactoring.guru/design-patterns/)
