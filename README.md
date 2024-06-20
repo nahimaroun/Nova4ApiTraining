@@ -27,6 +27,7 @@ This project covers the following design patterns:
 ## ○ Creational Patterns:
 ----------------------
 Creational patterns deal with object creation mechanisms, aiming to create objects in a manner suitable to the situation. These patterns provide various ways to instantiate objects, which increase the flexibility and reuse of existing code.
+
 ____________________________
 ● Singleton Design Pattern:
 
