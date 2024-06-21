@@ -44,7 +44,7 @@ The Singleton pattern ensures that a class has only one instance and provides a 
 
 ![singleton-comic-1-en](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/8d34bd67-4780-445e-a695-d0890ca97512)
 
-*Example: SingletonDesignPattern.dll*
+*Project-Reference: SingletonDesignPattern.dll*
 _________________
 ● Factory Method:
 
@@ -52,7 +52,7 @@ The Factory Method pattern defines an interface for creating an object but lets 
 
 ![factory-method-en](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/cbdce3b7-454c-4bb8-b1a4-68e99d327f5c)
 
-*Example: FactoryDesignPattern.dll*
+*Project-Reference: FactoryDesignPattern.dll*
 ___________________
 ● Abstract Factory:
 
@@ -60,7 +60,7 @@ The Abstract Factory pattern provides an interface for creating families of rela
 
 ![abstract-factory-en](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/cc7c08a3-61e4-403a-ae96-ef4a8c215e47)
 
-*Example: AbstractFactoryTraining.dll*
+*Project-Reference: AbstractFactoryTraining.dll*
 ____________________________
 ● Prototype Design Pattern:
 
@@ -68,7 +68,7 @@ The Prototype pattern specifies the kinds of objects to create using a prototypi
 
 ![prototype](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/69a1c567-599b-4775-8867-d5e4fa03672e)
 
-*Example: PrototypeDesignPattern.dll*
+*Project-Reference: PrototypeDesignPattern.dll*
 __________________________
 ● Builder Design Pattern:
 
@@ -76,7 +76,7 @@ The Builder pattern separates the construction of a complex object from its repr
 
 ![builder-en](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/398de502-e0e8-42c5-82cd-11779900b726)
 
-*Example: BuilderDesignPattern.dll*
+*Project-Reference: BuilderDesignPattern.dll*
 
 
 
@@ -92,7 +92,7 @@ The Adapter pattern converts the interface of a class into another interface cli
 
 ![adapter-en](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/44c843e4-02b0-43cd-a8e6-d6e9e2741e3d)
 
-*Example: AdapterDesignPattern.dll*
+*Project-Reference: AdapterDesignPattern.dll*
 ____________________________
 ● Bridge Design Pattern:
 
@@ -100,7 +100,7 @@ The Bridge pattern decouples an abstraction from its implementation so that the 
 
 ![bridge](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/af393d94-6479-4d48-a98c-448b23f62508)
 
-*Example: BridgeDesignPattern.dll*
+*Project-Reference: BridgeDesignPattern.dll*
 ____________________________
 ● Composite Design Pattern:
 
@@ -108,7 +108,7 @@ The Composite pattern composes objects into tree structures to represent part-wh
 
 ![composite](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/d59522cc-16e7-4e7a-9b14-ce313f0465aa)
 
-*Example: CompositeDesignPattern.dll*
+*Project-Reference: CompositeDesignPattern.dll*
 ____________________________
 ● Decorator Design Pattern:
 
@@ -116,7 +116,7 @@ The Decorator pattern attaches additional responsibilities to an object dynamica
 
 ![decorator](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/47f0dc59-4a61-4ea6-8c0e-41b02e4d08f0)
 
-*Example: DecoratorDesignPattern.dll*
+*Project-Reference: DecoratorDesignPattern.dll*
 ____________________________
 ● Facade Design Pattern:
 
@@ -124,7 +124,7 @@ The Facade pattern provides a unified interface to a set of interfaces in a subs
 
 ![facade](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/d8e80864-14c7-4e6a-9375-569b3165273b)
 
-*Example: FacadeDesignPattern.dll*
+*Project-Reference: FacadeDesignPattern.dll*
 
 
 
@@ -140,7 +140,7 @@ The Chain of Responsibility pattern lets you pass requests along a chain of hand
 
 ![chain-of-responsibility](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/dedf8e05-030b-4429-82e6-2215aaf93cbc)
 
-*Example: CORDesignPattern.dll*
+*Project-Reference: CORDesignPattern.dll*
 ____________________________
 ● Command Design Pattern:
 
@@ -148,7 +148,7 @@ The Command pattern encapsulates a request as an object, thereby allowing you to
 
 ![command-en](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/a0fb42bb-31c1-4d48-a894-716cfb9a01d0)
 
-*Example: CommandDesignPattern.dll*
+*Project-Reference: CommandDesignPattern.dll*
 ____________________________
 ● Iterator Design Pattern:
 
@@ -156,7 +156,7 @@ The Iterator pattern provides a way to access the elements of an aggregate objec
 
 ![iterator-en](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/db4a2bc6-12fb-4c81-8f02-fdbd0b6c683a)
 
-*Example: IteratorDesignPattern.dll*
+*Project-Reference: IteratorDesignPattern.dll*
 ____________________________
 ● Observer Design Pattern:
 
@@ -164,7 +164,7 @@ The Observer pattern defines a one-to-many dependency between objects so that wh
 
 ![observer](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/0ed928da-80c5-4181-9966-b66e468b0c61)
 
-*Example: ObserverDesignPattern.dll*
+*Project-Reference: ObserverDesignPattern.dll*
 __________________________________
 ● Template Method Design Pattern:
 
@@ -172,7 +172,7 @@ The Template Method pattern defines the skeleton of an algorithm in an operation
 
 ![template-method](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/25f55e79-99bf-4781-9143-f839d3a8aa5d)
 
-*Example: TemplateMethodDesignPattern.dll*
+*Project-Reference: TemplateMethodDesignPattern.dll*
 
 ## 📚 References
 This project was inspired by and utilizes concepts from the following resources:
