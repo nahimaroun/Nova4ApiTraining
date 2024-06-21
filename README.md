@@ -166,8 +166,8 @@ Information And Images:
 
 Examples are from:
 
--[C# Corner](https://www.c-sharpcorner.com/)
+- [C# Corner](https://www.c-sharpcorner.com/)
                    
--[Dot Net Tutorials](https://dotnettutorials.net/)
-                  
--[Refactoring Guru]( https://refactoring.guru/design-patterns/)
+- [Dot Net Tutorials](https://dotnettutorials.net/)
+
+- [Refactoring Guru]( https://refactoring.guru/design-patterns/)
