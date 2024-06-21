@@ -16,16 +16,25 @@ Welcome to the **Design Patterns Project**! This project is a comprehensive guid
 To get started with the project, clone the repository and install the necessary dependencies.
 
 git clone https://github.com/nahimaroun/Nova4ApiTraining.git
+
 cd DP Training/DesignPatternsTraining
-# Install dependencies (if any)
+
+Install dependencies (if any)
 
 ## 🧩 Design Patterns
 This project covers the following design patterns:
+- Creational Design Patterns
+- Structural Design Patterns
+- Behavioral Design Patterns
+
+I have made 5 detailed examples about each category of Design Patterns, you can run them and check out the code to learn about these design patterns and how they're implemented. These examples are very basic examples and no one would use them for such basic tasks, but our goal here is to learn not complicate our lives.
+
 (The language used to code these examples:  C# ) 
+
 (All these Examples are made in Class Libraries, To run them Go to "MainConsoleApp" and run the "Program.cs" file)
 
 ## ○ Creational Patterns:
-----------------------
+
 Creational patterns deal with object creation mechanisms, aiming to create objects in a manner suitable to the situation. These patterns provide various ways to instantiate objects, which increase the flexibility and reuse of existing code.
 
 ____________________________
@@ -68,7 +77,7 @@ The Builder pattern separates the construction of a complex object from its repr
 
 
 ## ○  Structural Patterns:
------------------------
+
 Structural patterns concern class and object composition. They use inheritance to compose interfaces and define ways to compose objects to obtain new functionalities.
 
 ____________________________
@@ -115,7 +124,7 @@ The Facade pattern provides a unified interface to a set of interfaces in a subs
 
 
 ## ○ Behavioral Patterns:
-----------------------
+
 Behavioral patterns are concerned with algorithms and the assignment of responsibilities between objects. These patterns help define how objects interact and communicate with each other.
 
 _________________________________________
