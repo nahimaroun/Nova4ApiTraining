@@ -161,7 +161,7 @@ This project was inspired by and utilizes concepts from the following resources:
 
 Information And Images:
 
-[Refactoring Guru]( https://refactoring.guru/design-patterns/)
+- [Refactoring Guru]( https://refactoring.guru/design-patterns/)
 
 
 Examples are from:
