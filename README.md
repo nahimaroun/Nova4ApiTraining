@@ -82,6 +82,7 @@ ____________________________
 ● Bridge Design Pattern:
 
 The Bridge pattern decouples an abstraction from its implementation so that the two can vary independently. This is useful when both the class and what it does vary often.
+
 ![bridge](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/af393d94-6479-4d48-a98c-448b23f62508)
 
 *Example: BridgeDesignPattern.dll*
@@ -89,6 +90,7 @@ ____________________________
 ● Composite Design Pattern:
 
 The Composite pattern composes objects into tree structures to represent part-whole hierarchies. It lets clients treat individual objects and compositions of objects uniformly.
+
 ![composite](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/d59522cc-16e7-4e7a-9b14-ce313f0465aa)
 
 *Example: CompositeDesignPattern.dll*
@@ -96,6 +98,7 @@ ____________________________
 ● Decorator Design Pattern:
 
 The Decorator pattern attaches additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
+
 ![decorator](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/47f0dc59-4a61-4ea6-8c0e-41b02e4d08f0)
 
 *Example: DecoratorDesignPattern.dll*
@@ -103,6 +106,7 @@ ____________________________
 ● Facade Design Pattern:
 
 The Facade pattern provides a unified interface to a set of interfaces in a subsystem. It defines a higher-level interface that makes the subsystem easier to use.
+
 ![facade](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/d8e80864-14c7-4e6a-9375-569b3165273b)
 
 *Example: FacadeDesignPattern.dll*
@@ -125,6 +129,7 @@ ____________________________
 ● Command Design Pattern:
 
 The Command pattern encapsulates a request as an object, thereby allowing you to parameterize clients with different requests, queue or log requests, and support undoable operations.
+
 ![command-en](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/a0fb42bb-31c1-4d48-a894-716cfb9a01d0)
 
 *Example: CommandDesignPattern.dll*
@@ -132,6 +137,7 @@ ____________________________
 ● Iterator Design Pattern:
 
 The Iterator pattern provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation. It allows traversal of the elements in a collection.
+
 ![iterator-en](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/db4a2bc6-12fb-4c81-8f02-fdbd0b6c683a)
 
 *Example: IteratorDesignPattern.dll*
