@@ -32,7 +32,7 @@ ____________________________
 ● Singleton Design Pattern:
 
 The Singleton pattern ensures that a class has only one instance and provides a global point of access to that instance. This is useful when exactly one object is needed to coordinate actions across the system.
-![singleton](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/3973aed4-26e3-48a5-9a5d-b4b5f349cd63)
+![singleton-comic-1-en](https://github.com/nahimaroun/Nova4ApiTraining/assets/127951295/8d34bd67-4780-445e-a695-d0890ca97512)
 
 *Example: SingletonDesignPattern.dll*
 _________________
